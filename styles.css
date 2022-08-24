@@ -1,0 +1,38 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Audiowide", cursive;
+  background-color: rgb(36, 36, 36);
+  text-align: center;
+}
+p{
+    color: white;
+    font-size: 40px;
+}
+
+.firstText{
+    color: red;
+}
+.secondText{
+    color: white;
+}
+
+img{
+
+    width: 400px;
+    height: 400px;
+}
+
+
+ul{
+    list-style: none;   
+}
+
+.list{
+    color: white;
+}
+
+h5{
+    color: white;
+}
